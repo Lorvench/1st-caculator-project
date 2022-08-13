@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(158, 134, 160);
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 255, 34);
+}
+
+button {
+    width: 60px;
+    height: 40px;
+    font-size: xx-large;
+}
+
+#inputdiv {
+    margin-left: 40%;
+}
+
+input {
+    width: 260px;
+    margin-top: 40px;
+    height: 40px;
+    font-size: xx-large;
+}
+
+.operator {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#calOutput {
+    width: 280px;
+    height: 40px;
+    background-color: blue;
+    margin-left: 40%;
+    margin-top: 30px;
+    font-size: xx-large;
+    padding-left: 29px;
+}
+
+#resultOutput {
+    width: 280px;
+    height: 3px;
+    background-color: rgb(81, 255, 0);
+    margin-left: 40%;
+    font-size: xx-large;
+    padding-left: 29px;
+    margin-top: 30px;
+}
